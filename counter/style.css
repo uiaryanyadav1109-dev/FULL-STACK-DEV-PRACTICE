@@ -1,7 +1,12 @@
+body{
+  /* Radiates from the center: White to Light Blue */
+  background: radial-gradient(circle,#26b553, #38aca6);
+}
+
 #countLabel{
     display: block;
     text-align: center;
-    color: #12d289;
+    color: #28ee7e;
     font-size:10cm;
     font-family: Helvetica;
 }
