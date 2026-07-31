@@ -1,5 +1,4 @@
 body{
-  /* Radiates from the center: White to Light Blue */
   background: radial-gradient(circle,#26b553, #38aca6);
 }
 
